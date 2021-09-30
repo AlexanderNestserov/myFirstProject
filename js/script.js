@@ -1,3 +1,3 @@
 let a = 5;
-a = 10;
-console.log(a);
+const a= 1;
+let b = "hi";
