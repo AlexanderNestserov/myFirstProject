@@ -4,5 +4,4 @@ while (i < 5) {
    console.log(i);
 }
 
-console.log(i);
-//ghif
+console.log("master");
